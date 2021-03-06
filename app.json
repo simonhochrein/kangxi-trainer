@@ -1,0 +1,12 @@
+{
+  "name": "kangxi-trainer",
+  "displayName": "kangxi-trainer",
+  "expo": {
+    "name": "kangxi-trainer",
+    "slug": "kangxi-trainer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
